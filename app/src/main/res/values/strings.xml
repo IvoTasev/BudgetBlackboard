@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BudgetBlackboardv2</string>
+    <string name="subjects_in_this_course">Subjects in this course:</string>
+    <string name="subject">Subject</string>
+    <string name="add_a_new_subject">Add a new subject</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="add_new_course">Add course</string>
+    <string name="description">Description</string>
+    <string name="name">Name</string>
+    <string name="choose_picture">Choose picture</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit_course">Edit course</string>
+    <string name="edit_subject">Edit subject</string>
+    <string name="subject_name">Subject name</string>
+    <string name="add_subject">Add Subject</string>
+    <string name="change_color">Change color</string>
+    <string name="change_app_color">Change app color</string>
+    <string name="total_subjects">Total Subjects</string>
+    <string name="please_fill_fields">Please fill all fields</string>
+    <string name="course_is_full">Course is full!</string>
+    <string name="course_currently_has">"The course currently has: "</string>
+    <string name="out_of_5_subjects">/5 subjects</string>
+</resources>

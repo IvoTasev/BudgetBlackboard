@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BudgetBlackboardv2</string>
+    <string name="subjects_in_this_course">Предмети в този курс</string>
+    <string name="subject">Предмет</string>
+    <string name="add_a_new_subject">Добави нов предмет</string>
+    <string name="delete">Изтрий</string>
+    <string name="edit">Редактирай</string>
+    <string name="add_new_course">Добави курс</string>
+    <string name="description">Описание</string>
+    <string name="name">Име</string>
+    <string name="choose_picture">Избери снимка</string>
+    <string name="cancel">Откажи</string>
+    <string name="edit_course">Редактирай курс</string>
+    <string name="edit_subject">Редактирай предмет</string>
+    <string name="subject_name">Име на предмет</string>
+    <string name="add_subject">Добави предмет</string>
+    <string name="change_color">Промени цвета</string>
+    <string name="change_app_color">Промени цвета на проложението</string>
+    <string name="total_subjects">Брой предмети</string>
+    <string name="please_fill_fields">Моля попълнете необходимите полета</string>
+    <string name="course_is_full">Курсът е пълен!</string>
+    <string name="course_currently_has">"Курсът има: "</string>
+    <string name="out_of_5_subjects">/5 предмета</string>
+</resources>
