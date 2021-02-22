@@ -11,3 +11,4 @@ This is the result of a university project. The goal is for the student to cover
 5. Knowledge of the activity lifecycle and am able to build an Android application in which you can go back and forth between activities by means of intents. 
 6. Able to use fragments together with reusable activity components in an Android application. 
 7. Can create and use custom components.
+
